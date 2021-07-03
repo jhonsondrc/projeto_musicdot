@@ -1,3 +1,3 @@
 # Estruturação de páginas usando HTML e CSS
 
-Projeto prático do curso de de estruturação de páginas web da CAELUM.
+Projeto prático do curso de estruturação de páginas web da CAELUM.
