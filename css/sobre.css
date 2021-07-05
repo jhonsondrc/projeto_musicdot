@@ -4,6 +4,8 @@ body {
   color: #3d3d3d;
   margin-left: auto;
   margin-right: auto;
+  font-size: 16px;
+  line-height: 1.5; /*Distância entre uma linha e outra*/
 }
 
 .titulo {
@@ -68,4 +70,18 @@ figure img {
 
 .contato_info-descricao {
   margin-left: 10px;
+}
+
+.rodape {
+  padding: 1.75em 0;
+  font-size: 1.1rem;
+}
+
+.rodape_logo {
+  width: 6em;
+}
+
+.rodape_copyright {
+  display: inline;
+  margin-left: 1em;
 }
